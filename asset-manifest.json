@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drpdown-react-fe/static/css/main.2127c2e2.css",
+    "main.js": "/drpdown-react-fe/static/js/main.58dc6b1b.js",
+    "static/js/787.a4ded588.chunk.js": "/drpdown-react-fe/static/js/787.a4ded588.chunk.js",
+    "index.html": "/drpdown-react-fe/index.html",
+    "main.2127c2e2.css.map": "/drpdown-react-fe/static/css/main.2127c2e2.css.map",
+    "main.58dc6b1b.js.map": "/drpdown-react-fe/static/js/main.58dc6b1b.js.map",
+    "787.a4ded588.chunk.js.map": "/drpdown-react-fe/static/js/787.a4ded588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2127c2e2.css",
+    "static/js/main.58dc6b1b.js"
+  ]
+}
